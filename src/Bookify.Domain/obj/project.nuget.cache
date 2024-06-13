@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DLutPmj/eh56P0j43Fvq3jTEK5LgDYSXlTJu2m7poFQpEm/oKv+Rj57VS1gO1Xznp2euvuMVu8HnXh8Wax/1iA==",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\Bookify\\src\\Bookify.Domain\\Bookify.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\itser\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\itser\\.nuget\\packages\\sonaranalyzer.csharp\\9.17.0.82934\\sonaranalyzer.csharp.9.17.0.82934.nupkg.sha512"
+  ],
+  "logs": []
+}
